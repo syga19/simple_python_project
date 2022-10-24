@@ -5,7 +5,7 @@ description = "Simple python calculator to calculate suff."
 authors = ["dqmis <dom.seputis@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "3.9.*"
+python = "3.10.*"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
